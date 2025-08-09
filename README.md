@@ -1,4 +1,4 @@
-📝 BlogMine
+📝BlogMine
 A modern, minimal, and lightning-fast blogging platform where users can create, edit, and publish blogs with images, titles, and rich-text content. Built with React (Vite), Appwrite, Redux Toolkit, and TinyMCE for an intuitive writing experience.
 
 🚀 Features
